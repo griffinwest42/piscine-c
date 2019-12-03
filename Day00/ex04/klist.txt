@@ -1,0 +1,6 @@
+Credentials cache: API:55365
+        Principal: grwest@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 21 18:43:25 2019  Oct 22 04:43:25 2019  krbtgt/42.US.ORG@42.US.ORG
+Oct 21 18:43:26 2019  Oct 22 04:43:25 2019  ldap/ldap-master.42.us.org@42.US.ORG
