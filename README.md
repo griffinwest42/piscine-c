@@ -60,23 +60,20 @@ Nothing turned in.
 
 ### Rush 00
 
-Received a 125%. Full bonus points.
+125% - Full bonus points.
 
 ### Rush 01
 
-Received a 55%.
-Change 0-9 to 1-9. Clean up obnoxious names.
+55% - Need to change 0-9 to 1-9 and clean up obnoxious names.
 
 ### Rush 02
 
-Incomplete.
-FAIL
+0% - Incomplete.
 
 ## Projects
 
 ### Sastantua
 
-Not started.
 ex00: FAIL
 
 ### Match-N-Match
@@ -85,10 +82,8 @@ ex00: OK | ex01: OK
 
 ### Eval Expressions
 
-Not started.
 ex00: FAIL
 
 ### BSQ
 
-Incomplete.
-FAIL
+0% - Incomplete.
